@@ -1,0 +1,43 @@
+
+[
+  {
+    "slug": "why-a-router",
+    "title": "Why Your App Needs a Router",
+    "excerpt": "Learn how URLs make web applications easier to navigate and share.",
+    "body": "Routing connects each URL to the appropriate screen in an application. It supports direct navigation, browser history, and shareable links.",
+    "publishedAt": "2026-10-20",
+    "tags": ["react", "routing"]
+  },
+  {
+    "slug": "getting-started-react",
+    "title": "Getting Started with React",
+    "excerpt": "Discover the fundamentals of building interfaces with reusable components.",
+    "body": "React helps developers build user interfaces from reusable components. Components can receive props, manage state, and compose together to create complete pages.",
+    "publishedAt": "2026-10-18",
+    "tags": ["react", "javascript"]
+  },
+  {
+    "slug": "typescript-benefits",
+    "title": "Why TypeScript Matters",
+    "excerpt": "Explore how static typing improves the development experience.",
+    "body": "TypeScript adds static type checking to JavaScript. It helps developers discover many mistakes during development and improves editor autocomplete.",
+    "publishedAt": "2026-10-15",
+    "tags": ["typescript", "javascript"]
+  },
+  {
+    "slug": "tailwind-css",
+    "title": "Styling with Tailwind CSS",
+    "excerpt": "Build consistent interfaces using utility-first CSS classes.",
+    "body": "Tailwind CSS provides utility classes for styling layouts, typography, spacing, colors, and responsive designs directly in markup.",
+    "publishedAt": "2026-10-12",
+    "tags": ["css", "tailwind"]
+  },
+  {
+    "slug": "modern-web-development",
+    "title": "Modern Web Development",
+    "excerpt": "Understand how today's frontend tools work together.",
+    "body": "Modern frontend applications combine component-based interfaces, typed code, routing, styling tools, and build systems to create maintainable web experiences.",
+    "publishedAt": "2026-10-10",
+    "tags": ["react", "web"]
+  }
+]
